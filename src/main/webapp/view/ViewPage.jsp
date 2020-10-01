@@ -24,7 +24,7 @@
 	<div align="center">
 		<form action="onlanding" method="post">
 
-			<label>From: </label> <input type="text" name="from"
+			<label>From: </label> <input type="text" name="fromName"
 				placeholder="enter sender name"><br> <label>Enter
 				message: </label> <input type="text" name="message"
 				placeholder="enter message"><br>
