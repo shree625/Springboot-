@@ -1,10 +1,10 @@
-package com.xworkz.project;
+package com.xworkz.springboot;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectApplicationTests {
+class SpringbootMapperApplicationTests {
 
 	@Test
 	void contextLoads() {
